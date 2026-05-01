@@ -25,7 +25,8 @@ A simple yet powerful web-based Inventory Management System built with Python Fl
 <img width="1600" height="747" alt="image" src="https://github.com/user-attachments/assets/21d4aae6-b8e2-41ea-8262-cd9f5728bc96" />
 
 ![Add Product Page](add-product.png)
-<img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/0ff1525e-b5f7-430a-a7af-792fc2c3f5b9" />
+<img width="1852" height="891" alt="Screenshot 2026-05-01 144050" src="https://github.com/user-attachments/assets/6499acf9-98f9-4dcc-a5bd-9f5d802f0b80" />
+
 
 
 ### ⚙️ How to Run This Project Locally
